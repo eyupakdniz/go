@@ -218,10 +218,10 @@ Slices
   ` }`<br><br>
 
 #### continue 
-- O bloktan çıkmamızı sağlar.
+- İçinde bulunduğumuz bloktan çıkmamızı sağlar.
 
 #### break 
-- O bloğu kırar.
+- Bloğu kırar.
 
 
 
